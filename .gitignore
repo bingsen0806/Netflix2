@@ -17,8 +17,8 @@ client/coverage
 
 # production
 admin/build
-client/coverage
-api/coverage
+client/build
+api/build
 
 # misc
 .DS_Store

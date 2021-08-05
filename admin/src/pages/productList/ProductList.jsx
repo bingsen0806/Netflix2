@@ -40,7 +40,7 @@ export default function ProductList() {
     {
       field: "action",
       headerName: "Action",
-      width: 150,
+      width: 130,
       renderCell: (params) => {
         return (
           <>
