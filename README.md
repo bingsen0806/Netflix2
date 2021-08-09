@@ -7,7 +7,12 @@ The project uses MERN stack and Firebase storage to store videos and images.
 Below are 2 short demos of the project client app for normal users, and admin app for admin users.
 
 Demo for client app:
-![ClientDemo](https://user-images.githubusercontent.com/71639142/128687956-f4577301-2936-4e10-b069-73ae906a476b.mp4)
+
+https://user-images.githubusercontent.com/71639142/128689912-0b98910d-2240-433c-9dc0-1ba033385d9d.mp4
+
 
 Demo for admin app:
-![AdminDemo](https://user-images.githubusercontent.com/71639142/128688180-2660eb57-8a59-4dee-aaef-edc7d221014b.mp4)
+
+https://user-images.githubusercontent.com/71639142/128690183-40d9bcf5-2f13-4b8c-b81d-c081ce7ba552.mp4
+
+
